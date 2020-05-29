@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Riddlers Maze.iml" filepath="$PROJECT_DIR$/Riddlers Maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/View/View.iml" filepath="$PROJECT_DIR$/View/View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cont/cont.iml" filepath="$PROJECT_DIR$/cont/cont.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cont/view.iml" filepath="$PROJECT_DIR$/cont/view.iml" />
+    </modules>
+  </component>
+</project>
